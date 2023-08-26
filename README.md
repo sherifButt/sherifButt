@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @sherifButt
-- 👀 I’m interested in Javascript & ReactJs NextJs
-- 🌱 I’m currently learning react redux & react antive
-- 💞️ I’m looking to collaborate on ReactJS apss
 - 📫 How to reach me ...
 
 <!---
